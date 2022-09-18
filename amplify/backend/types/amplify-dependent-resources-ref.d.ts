@@ -9,5 +9,11 @@ export type AmplifyDependentResourcesAttributes = {
             "AppClientIDWeb": "string",
             "AppClientID": "string"
         }
+    },
+    "storage": {
+        "s3nuberassignmentstorage3a699220": {
+            "BucketName": "string",
+            "Region": "string"
+        }
     }
 }

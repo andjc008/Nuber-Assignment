@@ -24,5 +24,12 @@
         ]
       }
     }
+  },
+  "storage": {
+    "s3nuberassignmentstorage3a699220": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
   }
 }

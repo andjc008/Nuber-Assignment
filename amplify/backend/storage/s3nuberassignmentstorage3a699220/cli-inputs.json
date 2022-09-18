@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3nuberassignmentstorage3a699220",
+  "bucketName": "nuber-assignment-storage-3a699220",
+  "policyUUID": "6462e87a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
